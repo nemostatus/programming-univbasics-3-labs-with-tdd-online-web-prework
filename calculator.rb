@@ -1,1 +1,1 @@
-# Add your variables here
+number = 1
