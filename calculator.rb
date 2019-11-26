@@ -1,4 +1,4 @@
 first_number = 5
 second_number = 2
-sum = 
+sum = first_number + second_number
 difference =  3
